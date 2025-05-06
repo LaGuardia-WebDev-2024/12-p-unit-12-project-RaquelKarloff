@@ -5,10 +5,18 @@ html {
   padding-left: 20px;
 }
 
-img{
+img {
   border-radius: 30px;
 }
-
-h1 {
-  font-family: "Poetsen One", sans-serif;
+body {
+  font: italic 20px fantasy;
+}
+body {
+  font-family: cursive;
+}
+img {
+  width: 200;
+  margin: 20pg;
+  border: 5px solid lightblue;
+  padding: 5px;
 }
